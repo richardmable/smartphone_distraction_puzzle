@@ -1,4 +1,4 @@
-#Soliving a 538.com [puzzle](http://fivethirtyeight.com/features/how-long-will-your-smartphone-distract-you-from-family-dinner/)
+#Solving a 538.com [puzzle](http://fivethirtyeight.com/features/how-long-will-your-smartphone-distract-you-from-family-dinner/)
 
 >Writing a Ruby program to solve this puzzle.
 
