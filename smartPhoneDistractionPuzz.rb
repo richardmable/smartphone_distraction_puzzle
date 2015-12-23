@@ -1,0 +1,1 @@
+#538 Smartphone Puzzle Solution by Richard Mable
